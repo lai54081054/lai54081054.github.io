@@ -1,0 +1,87 @@
+* {
+    font-family: DFKai-sb, serif, sans-serif;
+}
+
+.article-indent {
+    text-indent: 40px;
+}
+
+.background-color-faf5e6 {
+    background-color: #FAF5E6;
+}
+
+.big-icon {
+    font-size: 12vh;
+}
+
+.big-picture {
+    max-height: 600px;
+}
+
+.brand-story2-caption {
+    color: #82320A;
+    font-size: x-large;
+}
+
+.brand-story-proverb {
+    font-size: 20px;
+    /* google 字體 */
+    font-family: 'Noto Serif TC', serif;
+}
+
+.good-taste-border {
+    border: 1px solid #F0DCB4;
+}
+
+.healthy-taste-border {
+    border: 1px solid #786E3C;
+}
+
+.medium-picture {
+    max-height: 400px;
+}
+
+.property-benefit-font-color > dd {
+    color: #B98C55;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #b48246;
+    font-size: larger;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #966428;
+}
+
+.small-picture {
+    max-height: 200px;
+}
+
+.text-color-00bbff {
+    color: #00BBFF;
+}
+
+.text-color-821e00 {
+    color: #821E00;
+}
+
+.text-color-dc550f {
+    color: #DC550F;
+}
+
+@media screen and (min-width: 576px) {
+    .brand-story-proverb {
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 992px) {
+}
+
+@media screen and (min-width: 1200px) {
+
+}
