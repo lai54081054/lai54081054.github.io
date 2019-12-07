@@ -1,1 +1,3 @@
 .idea/
+# vim 暫存檔
+*.swp
